@@ -28,5 +28,3 @@ if start_button:
     st.write("---")
     st.write("Made By **_Jaweria Batool_**")
     st.write("For more information about how the app works, please check out the [GitHub README](https://github.com/Jaweria-B/digit-recognition-app) file.")
-
-
